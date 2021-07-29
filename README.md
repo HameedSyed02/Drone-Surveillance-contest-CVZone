@@ -22,6 +22,6 @@ Follow the commands as below:  I recommand to use Anaconda
 3: python save_model.py --model Custom-yolov4-car     (Load The Custom weights File)
 4: python object_tracker.py --video ./data/video/Drone.mp4 --output DroneOutput.avi --model Custom-yolov4-car
 
-The Output Video will be in the main diretory
+The Output Video will be in the main directory
 
 I hope you Like it | Have a Great Day !  
