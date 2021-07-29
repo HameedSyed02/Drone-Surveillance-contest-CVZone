@@ -11,7 +11,7 @@ I have made some code changes in Model files as of the purpose of the Contest. T
 
 Process To Implement
 1: Download the yolov4 + deep sort repo:   https://github.com/theAIGuysCode/yolov4-deepsort
-2: Downmoad The Custom Trained weights file : https://drive.google.com/file/d/1KSKVCgCILg6K5WWM2JAIlbPmXmgqnq_W/view?usp=sharing
+2: Download The Custom Trained weights file : https://drive.google.com/file/d/1KSKVCgCILg6K5WWM2JAIlbPmXmgqnq_W/view?usp=sharing
 3: Replace The modified code object_tracker.py with the Previous One in the repo
 4: Move Weights file to ./Data/Custom-yolov4-car.weights
 5: Move the Input video to ./Data/video/Drone.mp4
