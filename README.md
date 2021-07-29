@@ -17,10 +17,10 @@ Process To Implement
 5: Move the Input video to ./Data/video/Drone.mp4
 
 Follow the commands as below:  I recommand to use Anaconda 
-conda env create -f conda-gpu.yml
-conda activate yolov4-gpu
-python save_model.py --model Custum-yolov4-car     (Load The Custum weights File)
-python object_tracker.py --video ./data/video/Drone.mp4 --output DroneOutput.avi --model Custum-yolov4-car
+!: conda env create -f conda-gpu.yml
+2: conda activate yolov4-gpu
+3: python save_model.py --model Custum-yolov4-car     (Load The Custum weights File)
+4: python object_tracker.py --video ./data/video/Drone.mp4 --output DroneOutput.avi --model Custum-yolov4-car
 
 The Output Video will be in the main diretory
 
